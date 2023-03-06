@@ -1,5 +1,8 @@
-Hello, I'm a software developer with over 20 years of experience.
-I'm currently refreshing my skills with a goal of undertaking a fresh challenge.
+### Hi there 👋
+I'm a software developer with over 20 years of experience.
 
-Visit me on LinkedIn
-www.linkedin.com/in/barry-fraser-anderson
+- 🔭 I’m currently working on a bridge between our product's API and one or more third-party APIs, using Node.js
+- 🌱 I’m currently refreshing my skills, particularly C#, .Net Core, React, Node.js
+- 👯 I’m looking to use these skills to undertake a fresh challenge
+- 📫 Visit me at: www.linkedin.com/in/barry-fraser-anderson
+- ⚡ Fun fact: I play table-tennis
