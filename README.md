@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software developer with over 30 years of experience.
+I'm an experienced full-stack software developer.
 - 🌱 I’m currently refreshing my skills, particularly C#, .Net Core, React, Node.js
 
 - ⚡ Fun fact: I play table-tennis and PC games.
