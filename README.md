@@ -3,20 +3,20 @@
 
 <h2>👨‍💻 Training Projects:</h2>
 
-- <b>Python</b>
-  - [Tetris](https://github.com/Barry-Fraser-Anderson/Tetris)
-- <b>JavaScript<b>
-  - [Online Recipes Database](https://github.com/Barry-Fraser-Anderson/forkify)
-  - [Guided Tours Web Shop](https://github.com/Barry-Fraser-Anderson/natours)
-- <b>VueJS</b>
-  - [Credentials Vault](https://github.com/Barry-Fraser-Anderson/MyCreds)
-  - [An Online Store](https://github.com/Barry-Fraser-Anderson/VueJs3-Mk2)
-- <b>ReactJS<b>
-  - [Social Network App](https://github.com/Barry-Fraser-Anderson/Reactivities)
-  - [SmartBrain](https://github.com/Barry-Fraser-Anderson/SmartBrain)
-  - [robotfriends](https://github.com/Barry-Fraser-Anderson/robotfriends)
-- <b>C# (.NET Core)</b>
-  - [Bulky-MVC](https://Barry-Fraser-Anderson/Bulky-MVC)
+
+  - [Tetris](https://github.com/Barry-Fraser-Anderson/Tetris) - The game Tetris, written in Python
+
+  - [forkify](https://github.com/Barry-Fraser-Anderson/forkify) - A recipes app, using JavaScripts
+  - [natours](https://github.com/Barry-Fraser-Anderson/natours) - A guided tours web shop, NodeJS, MongoDB
+
+  - [Credentials Vault](https://github.com/Barry-Fraser-Anderson/MyCreds) - Vue3
+  - [Online Store](https://github.com/Barry-Fraser-Anderson/VueJs3-Mk2) - Vue3
+
+  - [Reactivities](https://github.com/Barry-Fraser-Anderson/Reactivities) - Social Network app. ReactJS and C# .NET 
+  - [SmartBrain](https://github.com/Barry-Fraser-Anderson/SmartBrain) - ReactJS
+  - [robotfriends](https://github.com/Barry-Fraser-Anderson/robotfriends) - ReactJS
+
+  - [Bulky-MVC](https://github.com/Barry-Fraser-Anderson/Bulky-MVC) - A Bookstore App, using C# and ASP.NET Core
   
 <h2> 🤳 Connect with me:</h2>
 
