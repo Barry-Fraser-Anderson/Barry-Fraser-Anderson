@@ -1,5 +1,7 @@
 <h1>Hello, I'm Barry Anderson</br><a href="https://www.linkedin.com/in/Barry-Fraser-Anderson/">Experienced Software Developer</a></h1>
 
+Note that this page is still a work-in-progress and hopefully will look better soon!
+
 <h2>👨‍💻 Training Projects:</h2>
 A collection of projects and courses that I have undertaken as training exercises
 
