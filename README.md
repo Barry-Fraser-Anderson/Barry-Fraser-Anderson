@@ -5,7 +5,7 @@ I am currently refreshing my skill set and am hoping to embark on a fresh challe
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-Some of the projects and training courses that I have undertaken
+Some of the projects and training courses that I have undertaken during the past two years
 
   - [Tetris](https://github.com/Barry-Fraser-Anderson/Tetris) - A game, using **Python, Pygame**
   - [Credentials Vault](https://github.com/Barry-Fraser-Anderson/MyCreds) - A password vault, using **Vue3, NodeJS**
