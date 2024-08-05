@@ -1,7 +1,7 @@
 <h1>Hello, I'm Barry Anderson</h1>
 
-I am an [experienced software developer][linkedin]  
-I am currently refreshing my skill set and am hoping to undertake a fresh challenge
+I am an [experienced software engineer][linkedin]  
+I am currently refreshing my skill set and am hoping to embark on a fresh challenge
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
