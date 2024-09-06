@@ -16,7 +16,7 @@ Some of the projects and training courses that I have undertaken
   - [natours](https://github.com/Barry-Fraser-Anderson/natours) - A guided tours web shop, using **NodeJS, MongoDB, REST API**
   - [Online Store](https://github.com/Barry-Fraser-Anderson/VueJs3-Mk2) - A simple online store app, using **Vue3, NodeJS, MongoDB**
   - [Reactivities](https://github.com/Barry-Fraser-Anderson/Reactivities) - Social Network app, using **ReactJS, NodeJS, TypeScript, REST API, C#, .NET 8, Entity Framework Core**
-  - [robotfriends](https://github.com/Barry-Fraser-Anderson/robotfriends) - A basic social network app, using **ReactJS, NodeJS**
+
 
 
 [linkedin]: https://linkedin.com/in/Barry-Fraser-Anderson
