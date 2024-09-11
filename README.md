@@ -7,7 +7,7 @@ I am currently refreshing my skill set and am hoping to embark on a fresh challe
 
 Some of the projects and training courses that I have undertaken
 
-  - [GuitarMan](https://github.com/Barry-Fraser-Anderson/GuitarMan) - An app for managing links to online guitar lessons, using **C#, ASP.NET MVC, Entity Framework Core, Microsoft SQL Server**
+  - [GuitarMan](https://github.com/Barry-Fraser-Anderson/GuitarMan) - An app for managing links to online guitar lessons, using **C#, ASP.NET MVC, EF Core, Microsoft SQL Server**
   - [Tetris](https://github.com/Barry-Fraser-Anderson/Tetris) - A game, using **Python, Pygame**
   - [Credentials Vault](https://github.com/Barry-Fraser-Anderson/MyCreds) - A password vault, using **Vue3, NodeJS**
   - [TDD Example](https://github.com/Barry-Fraser-Anderson/TDDexample) - A TDD exercise, using **xUnit, FluentAssertions**
@@ -16,7 +16,6 @@ Some of the projects and training courses that I have undertaken
   - [natours](https://github.com/Barry-Fraser-Anderson/natours) - A guided tours web shop, using **NodeJS, MongoDB, REST API**
   - [Online Store](https://github.com/Barry-Fraser-Anderson/VueJs3-Mk2) - A simple online store app, using **Vue3, NodeJS, MongoDB**
   - [Reactivities](https://github.com/Barry-Fraser-Anderson/Reactivities) - Social Network app, using **ReactJS, NodeJS, TypeScript, REST API, C#, .NET 8, Entity Framework Core**
-
 
 
 [linkedin]: https://linkedin.com/in/Barry-Fraser-Anderson
