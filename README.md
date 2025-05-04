@@ -1,11 +1,9 @@
 <h1>Hello, I'm Barry Anderson</h1>
 
 I am an [experienced software engineer][linkedin]  
-I am currently refreshing my skill set and am hoping to embark on a fresh challenge
+This is a collection of projects that I undertook for my own use, and as a learning exercise in order to prepare for a complete re-write of my employer's software product. 
   
 <h2>👨‍💻 Software Development Projects:</h2>
-
-Some of the projects and training courses that I have undertaken
 
   - [GuitarMan](https://github.com/Barry-Fraser-Anderson/GuitarMan) - An app for managing links to online guitar lessons, using **C#, ASP.NET MVC, EF Core, Microsoft SQL Server**
   - [Tetris](https://github.com/Barry-Fraser-Anderson/Tetris) - A game, using **Python, Pygame**
